@@ -14,4 +14,4 @@ Miguel: 4
 
 (Jesús se ha dejado afuera, considerando su estado de salud actual, del cual ya presentó un comprobante).
 
-### Esta es la rama principal
+### Esta es la rama de desarrollo
